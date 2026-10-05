@@ -1,0 +1,3 @@
+payload:
+    - +.ajay.app                      # Smarttube 片头/赞助广告跳过服务
+    - +.returnyoutubedislikeapi.com   # 开源项目 Return YouTube Dislike（简称 RYD） 的官方后端数据接口（API）域名，主要作用是在 YouTube 官方于 2021 年底隐藏“踩”（Dislike）的公开计数后，帮用户重新把“踩”的数量显示出来
