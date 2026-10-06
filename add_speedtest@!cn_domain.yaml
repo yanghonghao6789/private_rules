@@ -1,5 +1,2 @@
 payload:
-    - +.hkbn.net           # 香港宽频速度服务
-    - +.hkbn.com.hk        # 香港宽频速度服务
-    - +.cablenetcy.net
-    - +.speedtest-sg.cbn.id
+    - +.measurement-lab.org
