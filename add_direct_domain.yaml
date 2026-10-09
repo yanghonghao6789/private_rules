@@ -2,3 +2,4 @@ payload:
     - +.sony.tv        # 索尼（Sony）公司 用于为 Sony Bravia 智能电视系统提供的官方后台 API 服务器域名
     - +.ndmdhs.com     # 索尼（Sony）公司 用于收集设备和应用程序日志数据的官方后台 API 服务器域名
     - +.cpatrk.net     # 中国第三方大数据服务商 TalkingData（北京腾云天下科技有限公司） 旗下的数据统计与分析服务接口
+    - +.ueiwsp.com     # 智能电视（搭载 webOS 系统） 在联网时频繁请求的一个核心后台域名（通过 HTTPS 443 端口传输）
